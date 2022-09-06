@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SkyboxMaterial
+  m_Name: SkyboxMaterial_01
   m_Shader: {fileID: 4800000, guid: a449307a7b4cccf45b5b0e8cc47be915, type: 3}
   m_ShaderKeywords: CUBEMAP_CLOUD_FORMAT_RGBA GRADIENT_BACKGROUND HORIZON_FOG MOON
     MOON_CUSTOM_TEXTURE STAR_LAYER_1 STAR_LAYER_3 SUN VERTEX_GRADIENT_BACKGROUND
